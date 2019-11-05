@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Hank Quinlan, Horrible Cop</title>
+		<title>terrible</title>
 	</head>
 	<body>
         		<h1>Hi there, I'm Inigio Montoya</h1>
